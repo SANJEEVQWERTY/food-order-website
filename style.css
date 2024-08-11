@@ -135,25 +135,25 @@
     position: relative;
 }
 .circle:nth-child(1){
-    background-image: url("image/pizza.jpg");
+    background-image: url("pizza.jpg");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 .circle:nth-child(2){
-    background-image: url("image/cake.jpg");
+    background-image: url("cake.jpg");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 .circle:nth-child(3){
-    background-image: url("image/coffe.jpg");
+    background-image: url("coffe.jpg");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 .circle:nth-child(4){
-    background-image: url("image/icecream.jpg");
+    background-image: url("icecream.jpg");
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;

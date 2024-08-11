@@ -180,7 +180,6 @@
 .circle:hover .title{
     opacity: 1;
 }
-.right-side .image-container, img{
+.right-side, .image-container, img{
     width: 20rem;
-      background-image: url("burger.jpg");
 }

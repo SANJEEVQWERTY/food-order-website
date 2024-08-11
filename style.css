@@ -182,4 +182,5 @@
 }
 .right-side .image-container, img{
     width: 20rem;
+      background-image: url("burger.jpg");
 }
